@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this piece of code or the original original paper in your own work, please cite it as below."
+authors:
+- family-names: "Mukherjee"
+  given-names: "Swapnanil"
+- family-names: "Das"
+  given-names: "Sujit"
+title: "Application of Transformer-based Language Models to Detect Hate Speech in Social Media"
+version: 1.0.0
+doi: https://doi.org/10.47852/bonviewJCCE2022010102
+date-released: 2021-12-17
+url: "https://ojs.bonviewpress.com/index.php/JCCE/article/view/105"
